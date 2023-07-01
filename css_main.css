@@ -1,0 +1,29 @@
+body{
+    background: skyblue;
+}
+
+.div_center{
+   width: 800px;
+   height: 170px;
+   text-align: center;
+   background-color: pink;
+   margin: 0 auto 100px;
+   border-radius: 10px;
+}
+
+h1 {
+  padding-top: 12px;
+  margin-bottom: 0;
+  font-family: William, serif;
+  color: black;
+  font-size: 70px;
+  text-transform: uppercase;
+}
+
+p1 {
+  margin-top: 0;
+  color: #8B008B;
+  margin-left: 20px;
+  font-family: Monospace, sans-serif;
+  font-size: 50px;
+} 
